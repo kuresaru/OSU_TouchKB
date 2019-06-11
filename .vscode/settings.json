@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "hw_config.h": "c",
+        "km.h": "c",
+        "platform_config.h": "c",
+        "common.h": "c",
+        "usb_istr.h": "c"
+    }
+}
